@@ -10,7 +10,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/llm-chatbot-gemini-pro.git
+git clone https://github.com/rami2803200/llm-chatbot-gemini-pro.git
 Install dependencies:
 
 bash
